@@ -2,7 +2,7 @@
 
 This repository is a Career Ladder template using `pandoc`.
 
-If you'd like to see a deployed version of this repository: [Demo](https://design-documentation-template.netlify.app/index.html)
+If you'd like to see a deployed version of this repository: [Demo](https://career-ladder-template.netlify.app)
 
 ## Setup
 
